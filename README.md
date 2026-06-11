@@ -27,5 +27,5 @@ The analysis focuses on:
 
 ## Files
 
-- Nintendo_Financial_Analysis.pdf
-- Nintendo_Data.xlsx
+- Nintendo_Annual_Report.xlsx
+- nintendo_report.pdf
